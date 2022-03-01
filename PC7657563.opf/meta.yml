@@ -1,0 +1,43 @@
+id: PC7657563
+initial_creation_type: input
+source_metadata:
+  title: Seven-Line Prayer
+  language: zh
+  description: 'Texts related to the popular Seven-Line Prayer to Guru Rinpoche (tshig
+    bdun gsol ''debs) first revealed in the thirteenth century by Guru Chökyi Wangchuk:'
+  volume:
+    8e353843e055443fb08b5abb3a00c2b9:
+      title: 'Accomplishing the Lama through the Seven-Line Prayer: A Special Teaching
+        from the Lama Sangdü'
+      parent: Root Text
+    5e3b41c3191a44108b64b435d9330c4b:
+      title: Benedictory Verses for Shower of Blessings Guru Yoga
+      parent: Benedictory Verses
+    5a33b5f61c05417ba2c19b94ce8a6a67:
+      title: Benedictory Verses for White Lotus
+      parent: Benedictory Verses
+    306b892c14ed429593c7dd17cf44ad40:
+      title: 'The Quintessence of the Profound Path: A Concise Guide to the Stages
+        of Visualization for the Guru Yoga of the Seven-Line Supplication, A Shower
+        of Blessings'
+      parent: Guru Yoga
+    c9536eae5edc44a0806bc24681bbe712:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven-Line
+        Prayer'
+      parent: Guru Yoga
+    cd443c9f680748ba9b5c7d7692eecd06:
+      title: 'A Shower of Blessings: A Guru Yoga Practice to Accompany the Seven Line
+        Prayer (Addendum)'
+      parent: Guru Yoga
+    21e08aab82eb41178b10280545182788:
+      title: Remainder Torma Offering for Seven-Line Prayer Guru Yoga
+      parent: Tsok
+    25f923f1ac2d4cc786b1b610587769fd:
+      title: 'Excellent Vase of Splendour: The Tsok Feast Offering to Accompany the
+        Vajra Seven-Line Prayer'
+      parent: Tsok
+    3f05d30109c54129990121cf23a49553:
+      title: A Simple Visualization for the Seven-Line Prayer
+      parent: Visualization
+created_at: '2022-03-01T05:45:20.980931'
+last_modified_at: '2022-03-01T05:45:20.980934'
